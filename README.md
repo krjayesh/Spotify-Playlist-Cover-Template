@@ -21,6 +21,7 @@ template easily. (Mac & Windows both)
 1. Click on the <b>Import File</b> icon next to the New File button in the toolbar. You can find this
 in the top-right corner of any File page in the File Browser.
   <p align="center"><img src="https://s3.amazonaws.com/helpscout.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5daf671604286364bc90bf0d/file-VdqebovbA5.png"></p>
+  <p align="center"><img src="http://www.mediafire.com/view/xejesb2ihmd8xeg/Frame_8.png/file"></p>
 2. Select the file(s) from the dialog window and click <b>Open</b> to start the import process<br>
 3. Depending on the file size this can take a couple of seconds to import. Click Done to return to the File Browser.
 
