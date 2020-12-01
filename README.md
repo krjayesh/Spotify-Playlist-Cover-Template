@@ -13,8 +13,8 @@ template easily. (Mac & Windows both)
 
 ### Editing it on browser/app:
 <b> Login and at the dashboard/homepage after:</b>
-    Drictly drag and drop the template file on the figma dashboard to import the template.
-    
+<br>
+Drictly drag and drop the template file on the figma dashboard to import the template.
     <p align="center> <b>OR</b></p>
     
 1. Click on the <b>Import File</b> icon next to the New File button in the toolbar. You can find this
