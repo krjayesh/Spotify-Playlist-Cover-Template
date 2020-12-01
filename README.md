@@ -4,7 +4,7 @@
 </p>
 
 <center>
-<b>Download link: https://github.com/krjayesh/spotify-playlist-cover-template/raw/main/Spotify%20Playlist%20Covers.fig<b>
+Download link: https://github.com/krjayesh/spotify-playlist-cover-template/raw/main/Spotify%20Playlist%20Covers.fig
     </center>
     
 # To Edit It Use Figma.
