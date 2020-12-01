@@ -28,5 +28,5 @@ in the top-right corner of any File page in the File Browser.
 <p align="center">
     <b>Made with ❤️ by <a href="https://github.com/krjayesh">Jayesh Kumar</a></b>
     <br>
-    If you expirence any problems please report me at my <a href="https://www.instagram.com/kingramessesofficial/">instagram.</a>
+    If you expirence any problems please message me at my <a href="https://www.instagram.com/kingramessesofficial/">instagram.</a>
 </p>
