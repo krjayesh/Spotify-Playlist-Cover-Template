@@ -25,7 +25,7 @@ in the top-right corner of any File page in the File Browser.
 3. Depending on the file size this can take a couple of seconds to import. Click Done to return to the File Browser.
 
 <hr>
-<p lign="center">
+<p align="center">
     <b>Made with ❤️ by <a href="https://github.com/krjayesh">Jayesh Kumar</a></b>
     <br>
     If you expirence any problems please report me at my <a href="https://www.instagram.com/kingramessesofficial/">instagram.</a>
