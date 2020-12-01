@@ -1,1 +1,1 @@
-# spotify-playlist-cover-template
+# Spotify playlist cover template
