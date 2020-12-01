@@ -12,7 +12,7 @@ You can edit the file from browser or download its official app from figma.com a
 template easily. (Mac & Windows both)
 
 ### Editing it on browser/app:
-> Login and at the dashboard/homepage after:
+> Login to figma and at the dashboard/homepage:
 
 <p align="center"><b> Drictly drag and drop the template file on the figma dashboard to import the template.</b>(You can drag a file from a folder on your computer, or from your Desktop, right into Figma. This is available on both the Figma Desktop app and the Figma web app.)
 <br><br>
