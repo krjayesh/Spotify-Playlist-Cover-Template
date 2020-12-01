@@ -10,3 +10,6 @@
 ## To Edit It Use Figma.
 > You can edit the file from browser or download its official app from figma.com and edit the
 template easily. (Mac & Windows both)
+
+### Editing it on browser/app:
+>> Login and at the dashboard/homepage after:
