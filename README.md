@@ -15,7 +15,7 @@ template easily. (Mac & Windows both)
 <b> Login and at the dashboard/homepage after:</b>
 <br>
 Drictly drag and drop the template file on the figma dashboard to import the template.
-    <p align="center> <b>OR</b></p>
+    <p align="center"><b>OR</b></p>
     
 1. Click on the <b>Import File</b> icon next to the New File button in the toolbar. You can find this
 in the top-right corner of any File page in the File Browser.
