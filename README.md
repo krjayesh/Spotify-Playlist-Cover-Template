@@ -14,9 +14,10 @@ template easily. (Mac & Windows both)
 ### Editing it on browser/app:
 <b> Login and at the dashboard/homepage after:</b>
 
-<b> Drictly drag and drop the template file on the figma dashboard to import the template.</b>(You can drag a file from a folder on your computer, or from your Desktop, right into Figma. This is available on both the Figma Desktop app and the Figma web app.)
+<p align="center"><b> Drictly drag and drop the template file on the figma dashboard to import the template.</b>(You can drag a file from a folder on your computer, or from your Desktop, right into Figma. This is available on both the Figma Desktop app and the Figma web app.)
 <br><br>
 <b>OR</b>
+</p>
 1. Click on the <b>Import File</b> icon next to the New File button in the toolbar. You can find this
 in the top-right corner of any File page in the File Browser.
   <p align="center"><img src="https://s3.amazonaws.com/helpscout.net/docs/assets/5aa962fe2c7d3a2c4983093d/images/5daf671604286364bc90bf0d/file-VdqebovbA5.png"></p>
