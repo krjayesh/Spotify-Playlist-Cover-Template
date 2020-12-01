@@ -12,4 +12,4 @@
 template easily. (Mac & Windows both)
 
 ### Editing it on browser/app:
->> Login and at the dashboard/homepage after:
+#### Login and at the dashboard/homepage after:
