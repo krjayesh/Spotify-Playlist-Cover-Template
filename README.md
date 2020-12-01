@@ -8,7 +8,7 @@
 </p>
     
 ## To Edit It Use Figma.
-You can edit the file from browser or download its official app from <a href="https://www.figma.com">figma.com</a> and edit the
+You can edit the file from browser or download its official app from <a href="https://www.figma.com/">figma.com</a> and edit the
 template easily. (Mac & Windows both)
 
 ### Editing it on browser/app:
