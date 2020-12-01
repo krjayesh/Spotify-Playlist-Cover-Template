@@ -3,7 +3,7 @@
     <br>
 </p>
 
-<center>
+<p align="center">
 Download link: https://github.com/krjayesh/spotify-playlist-cover-template/raw/main/Spotify%20Playlist%20Covers.fig
     </center>
     
